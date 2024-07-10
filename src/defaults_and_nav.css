@@ -40,3 +40,13 @@ nav, button{
         color: white;
     }
 }
+
+footer{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    background-color: var(--orange);
+    position: fixed;
+    bottom: 0;
+    z-index: 10000;
+}
